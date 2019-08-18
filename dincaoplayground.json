@@ -12,7 +12,7 @@
             "description": "DIncao Playground de História Geral.",
             "contentIdentifier": "com.dincao.playgrounds.historia",
             "contentVersion": "1.0",
-            "url": "keypaths/keypaths.playgroundbook.zip",
+            "url": "playgroundbook.zip",
             "publishedDate": "2019-08-17T21:13:57+00:00",
             "lastUpdatedDate": "2019-08-17T21:13:57+00:00",
             "thumbnailURL": "dincaoplayground_1.png",
@@ -24,7 +24,7 @@
                 }
             ],
             "previewImageURLs": [
-                "keypaths/preview-1.png"
+                "dincao_playground_historia.png"
             ]
         },
         
