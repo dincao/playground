@@ -1,0 +1,32 @@
+{
+    "title": "DIncao Playgrounds",
+    "subtitle": "Exmeplos de PlayGrounds utilizados em aula",
+    "publisherName": "DIncao Solutions",
+    "feedIdentifier": "com.dincao.playgrounds",
+    "contactURL": "https://dincao.com.br/suporte",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "2. Guerra Mundial",
+            "overviewSubtitle": "História Geral ",
+            "description": "DIncao Playground de História Geral.",
+            "contentIdentifier": "com.dincao.playgrounds.historia",
+            "contentVersion": "1.0",
+            "url": "keypaths/keypaths.playgroundbook.zip",
+            "publishedDate": "2019-08-17T21:13:57+00:00",
+            "lastUpdatedDate": "2019-08-17T21:13:57+00:00",
+            "thumbnailURL": "dincaoplayground_1.png",
+            "bannerImageURL": "dincaoplayground_2.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "Portuguese"
+                }
+            ],
+            "previewImageURLs": [
+                "keypaths/preview-1.png"
+            ]
+        },
+        
+    ]
+}
